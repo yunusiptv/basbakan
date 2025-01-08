@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="#######"tvg-id="" "tvg-logo="https://i.ibb.co/1KZJwm7/11zon-cropped.png"group-title="HOSGELDINIZ":http-referrer="":http-user-agent="",#######
+https://live.sportstv.com.tr/hls/low/sports404tv_fhd/index.m3u8
+#EXTINF:-1 tvg-name="Basbakan IPTV"tvg-id=""tvg-logo="https://i.ibb.co/1KZJwm7/11zon-cropped.png"group-title="HOSGELDINIZ":http-referrer="":http-user-agent="",Selamin Aleykum | YUNUS IPTV
+https://live.sportstv.com.tr/hls/low/sports404tv_fhd/index.m3u8
+#EXTINF:-1 tvg-name="INFO"tvg-id=""tvg-logo="https://i.ibb.co/1KZJwm7/11zon-cropped.png"group-title="HOSGELDINIZ":http-referrer="":http-user-agent="",En son Bakim: 31.10.24 09:32
+https://live.sportstv.com.tr/hls/low/sports404tv_fhd/index.m3u8
+#EXTINF:-1 tvg-name="######"tvg-id="" "tvg-logo="https://i.ibb.co/1KZJwm7/11zon-cropped.png"group-title="HOSGELDINIZ":http-referrer="":http-user-agent="",######
+https://live.sportstv.com.tr/hls/low/sports404tv_fhd/index.m3u8
+#EXTINF:-1 tvg-name="BeIN SPORTS 1"tvg-id="beinsports1.tr"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="SPOR":http-referrer="":http-user-agent="",beIN SPORTS
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/Ug8ryO7sMgNs8ctlEbW8GSlgdY2ng0G9BUR56hNJAyVZ1nOjQMa3f2mO3eIM-qMUNhEhzXUiRFrZi9c4PsqFFbsDig0V61OcdyuDCuuLBVHqNFkH94a-w4I_I4LF2J6lnwnarZHT5Vv0I-BxZ8DrQqZ_pFUQeCRN7bvR21WA4Hg/hls/677eb92a_672.ts
+#EXTINF:-1 tvg-name="BeIN SPORTS 2"tvg-id="beinsports1.tr"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="SPOR":http-referrer="":http-user-agent="",beIN SPORTS
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/Ug8ryO7sMgNs8ctlEbW8GSlgdY2ng0G9BUR56hNJAyVZ1nOjQMa3f2mO3eIM-qMUNhEhzXUiRFrZi9c4PsqFFbsDig0V61OcdyuDCuuLBVHqNFkH94a-w4I_I4LF2J6lnwnarZHT5Vv0I-BxZ8DrQqZ_pFUQeCRN7bvR21WA4Hg/hls/index.m3u8
+#EXTINF:-1 tvg-name="TRT Spor"tvg-id="Spor_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13687983.png"group-title="TURK SPOR":http-referrer="https://www.selcuksportshd1440.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",TRT Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.selcuksportshd1440.xyz/
+https://tre.946b85c3197f1fc7.click/p/selcuksportshd1440.xyz/2889/a.cf-worker-fb9cab4e0e7d1a68.workers.dev/chunklist_hd.m3u8
